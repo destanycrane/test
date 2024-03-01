@@ -1,0 +1,97 @@
+[
+    {
+        "name": "duplicate",
+        "description": "This issue or pull request already exists",
+        "color": "cfd3d7"
+    },
+    {
+        "name": "invalid",
+        "description": "This issue doesn't seem right",
+        "color": "e4e669"
+    },
+    {
+        "name": "Priority: Urgent",
+        "description": "Priority of this issue is URGENT",
+        "color": "B60205"
+    },
+    {
+        "name": "Release: v0.6",
+        "description": "Applies to Version 0.6 of the app",
+        "color": "C2E0C6"
+    },
+    {
+        "name": "Release: v1.0",
+        "description": "Applies to Version 1.0 of the app",
+        "color": "0e8a16"
+    },
+    {
+        "name": "Release: v2.0",
+        "description": "Applies to Version 2.0 of the app",
+        "color": "014A03"
+    },
+    {
+        "name": "Type: Admin",
+        "description": "Administrative task",
+        "color": "FD4222"
+    },
+    {
+        "name": "Type: Bug",
+        "description": "Something isn't working",
+        "color": "d73a4a"
+    },
+    {
+        "name": "Type: Documentation",
+        "description": "Improvements or additions to documentation",
+        "color": "0075ca"
+    },
+    {
+        "name": "Type: Enhancement",
+        "description": "New feature or request",
+        "color": "a2eeef"
+    },
+    {
+        "name": "Type: Extension Product",
+        "description": "Compilations for decision makers",
+        "color": "D4C5F9"
+    },
+    {
+        "name": "Type: External Input",
+        "description": "Input from/task for external party",
+        "color": "BFDADC"
+    },
+    {
+        "name": "Type: Help Wanted",
+        "description": "Extra attention is needed",
+        "color": "008672"
+    },
+    {
+        "name": "Type: Methods Development",
+        "description": "Related to development of methods",
+        "color": "FBCA04"
+    },
+    {
+        "name": "Type: Question",
+        "description": "Further information is requested",
+        "color": "d876e3"
+    },
+    {
+        "name": "Type: Review",
+        "description": "Review needed",
+        "color": "F9D0C4"
+    },
+    {
+        "name": "Type: Supporting Project",
+        "description": "A supporting project to the CCISS tool",
+        "color": "E99695"
+    },
+    {
+        "name": "Type: Workflow",
+        "description": "Workflow related task",
+        "color": "4831DA"
+    },
+    {
+        "name": "wontfix",
+        "description": "This will not be worked on",
+        "color": "ffffff"
+    }
+]
